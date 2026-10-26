@@ -6,3 +6,5 @@ description: Test Skill for the HiQ update-from-source check. Use only when aske
 # Update in place
 
 Version 1. This Skill stays unedited in HiQ, so an update from the source replaces it in place.
+
+Version 2 adds this line from the source.
